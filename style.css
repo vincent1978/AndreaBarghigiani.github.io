@@ -1,0 +1,8 @@
+*{
+  box-sizing: content-box;
+  text-align: center;
+}
+
+.project p{
+  padding: 0 20px;
+}
